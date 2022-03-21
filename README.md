@@ -74,6 +74,8 @@ useEffect와 location을 활용해서 location값이 변동되면 리렌더링 �
    구매를 누르면 상품에 대한 가격과 정보가 백엔드로 전송되고 백엔드에서는 그 데이터를 
    처리하여 포인터를 차감. 그리고  입찰 정보를 누르면 상품에 대한 입찰 정보를 기록, 
    변동된 포인터는 즉시 네비게이션 바에서 실시간으로 표시
+   
+   
 ![image](https://user-images.githubusercontent.com/81794430/150492436-b5ab9ada-37b6-4bb7-8d5a-b41c99f69221.png)
 
 
