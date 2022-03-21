@@ -62,9 +62,7 @@ useEffect와 location을 활용해서 location값이 변동되면 리렌더링 �
 - URL에서 쿼리스트링 정보를 가져와서 URLSearchParams 메서드를 사용하여 객체로 변경 후 상황에 맞게 쿼리 스트링을 수정하여 필터링 기능 구현
 - 슬릭 라이브러리를 사용하여 캐러셀 기능 구현
 
-![Uploading 스크린샷 2022-03-21 오전 4.02.31.png…]()
-
-
+![image](https://user-images.githubusercontent.com/93053269/159301886-a4a6619a-c3b0-4f83-8a4e-608a66fa7367.png)
 
 #### 상품 상세 페이지(진민욱)
 
