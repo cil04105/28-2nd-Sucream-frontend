@@ -86,4 +86,3 @@ useEffect와 location을 활용해서 location값이 변동되면 리렌더링 �
 ## Reference
 
 - 이 프로젝트는 [KREAM](https://kream.co.kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
-- 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
